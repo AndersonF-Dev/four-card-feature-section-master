@@ -13,7 +13,7 @@ Esta é uma solução para o [Desafio da seção de quatro recursos de cartão n
 ### Link
 
 
-- URL do site ativo: [link aqui](https://andersonf-dev.github.io/social-proof-section-master/)
+- URL do site ativo: [link aqui](https://andersonf-dev.github.io/four-card-feature-section-master/)
 
 
 
